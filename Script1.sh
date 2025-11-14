@@ -5,4 +5,5 @@ echo "I am learning Devops"
 echo "Adding new line"
 echo "I am from Devops and cloud team"
 echo "i am trying to push my code to remote repository"
+echo "this is first commit"
 
